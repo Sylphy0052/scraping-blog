@@ -12,7 +12,7 @@
 - 通知機能(新作があったら)→Batch処理
 
 ## 何を使うか
-- Docker
+- Docker
 - Flask(Python)
 - Vue.js
 - MySQL

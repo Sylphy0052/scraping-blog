@@ -1,7 +1,7 @@
 # scraping-blog
 
 ## どうするか
-- Docker
+- Docker
 - Flask(Python)
 - Vue.js
 

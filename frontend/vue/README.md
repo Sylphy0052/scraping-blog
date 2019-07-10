@@ -1,6 +1,6 @@
-# front-vue
+# vue
 
-> vue.js front project
+> A Vue.js project
 
 ## Build Setup
 
